@@ -27,12 +27,12 @@ If you don't have a token, you can find a guide here: https://developer.themovie
 VITE_BEARER_TOKEN = your_token_here
 ```
 
-4. Install dependencies -
+5. Install dependencies -
 Using Node package manager (npm):
   ```bash
 npm i
 ```
-5. Run the development server:
+6. Run the development server:
   ```bash
   npm run dev
 ```
